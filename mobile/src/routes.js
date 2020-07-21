@@ -6,6 +6,8 @@ const AppStack = createStackNavigator();
 
 import Incidents from './pages/Incidents';
 import Detail from './pages/Detail';
+import Login from './pages/Login';
+import Register from './pages/Register';
 
 export default function Routes() {
     return (
